@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602747422 source:/home/digvi/Documents/os lab woest fit code/main.c
+	<stdio.h>
+	<stdlib.h>
+
